@@ -27,3 +27,8 @@ button {
 	border-radius: 5px;
 background-color: rgb(42,118,216);
 }
+
+.active > button{
+  color:red;
+
+}
